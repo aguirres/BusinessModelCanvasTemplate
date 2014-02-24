@@ -29,3 +29,10 @@ H1 {font-weight: 900;}
   font-weight: 300;
   font-size: 0.8em;
 }
+
+#bizgreencanvas td {
+  vertical-align: top;
+  height: 200px;
+  width: 200px;
+  padding: 6px;
+ }
